@@ -18,3 +18,7 @@
     background-color: rgb(255, 255, 255);
     border-radius: 24px;
 }
+
+.header{
+    height: 100vh;
+}
