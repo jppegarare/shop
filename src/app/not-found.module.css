@@ -1,0 +1,7 @@
+.texto{
+    display: flex;
+    height: 50px;
+    background-color: rgb(255, 0, 0);
+    padding: 5%;
+    text-align: center;
+}
